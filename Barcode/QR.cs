@@ -15,7 +15,7 @@ using Org.BouncyCastle.Math.EC;
 using ThoughtWorks.QRCode.Codec;
 using System.Text.RegularExpressions;
 
-namespace BtcAddress {
+namespace XPMAddress {
     public class QR {
 
         /// <summary>
