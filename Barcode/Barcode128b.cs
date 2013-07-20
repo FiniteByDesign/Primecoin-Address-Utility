@@ -21,7 +21,7 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 
-namespace BtcAddress {
+namespace XPMAddress {
     public class Barcode128b {
         /// <summary>
         /// There are 107 total patterns.  Patterns 0-94 correspond to ASCII codes 32-126.
